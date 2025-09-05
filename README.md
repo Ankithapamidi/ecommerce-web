@@ -1,4 +1,4 @@
-#ecommerce wesite
+# **FashChic - E-commerce Website**
 The e-commerce product management system was successfully developed using Spring Boot as a RESTful backend. The application effectively handles core operations such as product creation, updating, deletion, and retrieval, including image upload and download functionalities. By following a modular architecture (Controller → Service → Repository), the system ensures clean separation of concerns, scalability, and maintainability.
 
 🔥 Features
